@@ -1,5 +1,2 @@
 requests
-os
-sys
-random
 multiprocessing
